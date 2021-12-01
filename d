@@ -41,7 +41,7 @@ end
 
 function Library:CreateWindow(Config, Parent)
 	local WindowInit = {}
-	local Folder = game:GetObjects("rbxassetid://06")[1]
+	local Folder = game:GetObjects("rbxassetid://18662155")[1]
 	local Screen = Folder.Bracket:Clone()
 	local Main = Screen.Main
 	local Holder = Main.Holder
